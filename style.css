@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Chau+Philomene+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lustria&display=swap');
 
 
 html {
@@ -11,7 +11,7 @@ body {
   overflow-y: hidden;
   display: flex;
   align-items: center;
-  font-family: Chau Philomene One, sans-serif;
+  font-family: Lustria, sans-serif;
   letter-spacing: 2px;
 }
 
@@ -85,7 +85,7 @@ input {
   border-radius: 20px;
   background: #fff;
   outline: none;
-  font-family: Chau Philomene One, sans-serif;
+  font-family: Lustria, sans-serif;
   letter-spacing: 2px;
 }
 
